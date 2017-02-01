@@ -5,8 +5,8 @@ use notify_rust::Notification;
 use std::time::Duration;
 use std::thread;
 
-// const POMODORO_SECONDS: u64 = 60*24;
-const POMODORO_SECONDS: u64 = 3;
+const POMODORO_SECONDS: u64 = 60*24;
+// const POMODORO_SECONDS: u64 = 3;
 const SHORT_PAUSE_SECONDS: u64 = 60*5;
 const LONG_PAUSE_SECONDS: u64 = 60*20;
 
