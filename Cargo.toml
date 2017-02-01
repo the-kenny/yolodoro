@@ -1,0 +1,8 @@
+[package]
+name = "yolodoro"
+version = "0.1.0"
+authors = ["Moritz Ulrich <moritz@tarn-vedra.de>"]
+
+[dependencies]
+notify-rust = "3.2.1"
+rusqlite = "0.9.5"
